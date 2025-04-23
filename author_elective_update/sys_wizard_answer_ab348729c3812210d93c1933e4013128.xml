@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Needitrk</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needitrk</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">88a1834a851112108a7c81b65f878940</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 20:01:03</sys_created_on>
+        <sys_id>ab348729c3812210d93c1933e4013128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needitrk</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_ab348729c3812210d93c1933e4013128</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-21 20:01:03</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_needitrk.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>70f050431b4e465032182f8dee4bcbbb</instance_id>
+        <instance_name>dev269322</instance_name>
+        <name>sys_wizard_answer_ab348729c3812210d93c1933e4013128</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Needitrk</answer><button_label/><dependent_value/><element/><name>Needitrk</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">88a1834a851112108a7c81b65f878940</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-21 20:01:03</sys_created_on><sys_id>ab348729c3812210d93c1933e4013128</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needitrk</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_wizard_answer_ab348729c3812210d93c1933e4013128</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-21 20:01:03</sys_updated_on><table/><target_url>x_58872_needit_needitrk.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1788808528</payload_hash>
+        <record_name>Needitrk</record_name>
+        <reverted_from/>
+        <source>ec17b723c3302210d93c1933e40131c1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-15 18:35:17</sys_created_on>
+        <sys_id>a9544b29c3812210d93c1933e40131f6</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1963abbee880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>69544b299781221017e2078d4eb962f6</update_guid>
+        <update_guid_history>69544b299781221017e2078d4eb962f6:-1788808528</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 20:01:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>9f4ee8d3d0db46fda496e0fdb6348771</sys_id>
+        <sys_metadata>ab348729c3812210d93c1933e4013128</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needitrk</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Task">88a1834a851112108a7c81b65f878940</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_ab348729c3812210d93c1933e4013128</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_ab348729c3812210d93c1933e4013128">a9544b29c3812210d93c1933e40131f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-21 20:01:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
